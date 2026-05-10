@@ -1,10 +1,10 @@
 # Oscar: Fine-Grained Webpage Fingerprinting at Scale
 ### Reproduction Study — ACM CCS 2024
 
-> **Course:** Computer and Network Security (22CST352)
-> **Institute:** Malaviya National Institute of Technology Jaipur
-> **Team:** Vetapalem Sai Udheep (2023UCP1971) · Ayush Kumar (2023UCP1974)
-> **Instructor:** Dr. Ramesh Babu Battula
+> **Course:** Computer and Network Security (22CST352) <br>
+> **Institute:** Malaviya National Institute of Technology Jaipur<br>
+> **Team:** Vetapalem Sai Udheep (2023UCP1971) · Ayush Kumar (2023UCP1974)<br>
+> **Instructor:** Dr. Ramesh Babu Battula<br>
 
 ---
 
@@ -99,9 +99,9 @@ oscar-wpf-reproduction/
 |   '-- CNS_REPORT.pdf              # Full project report
 |
 |-- presentation/
-|   '-- CNS_PPT.pdf                 # Presentation slides (23 slides)
+|   '-- CNS_PPT.pdf                 # Presentation slides 
 |
-|-- oscar/                          # Source code (from Zenodo)
+|-- oscar/                          # Source code 
 |   |-- feature_transformation.py   # Embeds traffic into 512-dim vectors
 |   |-- knn.py                      # Dual k-NN webpage classifier
 |   |-- losses.py                   # Proxy + sample metric learning losses
