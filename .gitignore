@@ -1,0 +1,16 @@
+# Exclude large dataset files
+oscar/datasets/
+*.tar.gz
+*.npz
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
