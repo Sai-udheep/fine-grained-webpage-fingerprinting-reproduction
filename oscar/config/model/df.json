@@ -1,0 +1,5 @@
+{
+    "name": "DF",
+    "emb_size": 512,
+    "final_length": 37
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Oscar_augment",
+    "model_name": "df",
+    "train_file": "datasets/open-world/train_augment.npz",
+    "test_file": "datasets/open-world/test.npz",
+    "outpath": "result/open-world",
+    "padding": 2000,
+    "emb_size": 512,
+    "batch_size": 128
+}

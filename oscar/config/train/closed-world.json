@@ -1,0 +1,17 @@
+{
+    "num_webs": 1000,
+    "description": "Oscar_augment",
+    "model_name": "df",
+    "train_file": "datasets/closed-world/train_augment.npz",
+    "valid_file": "datasets/closed-world/valid.npz",
+    "outpath": "result/closed-world",
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 1e-6,
+    "momentum": 0.9,
+    "epoch": 300,
+    "gpu_id": 0,
+    "threshold": 0.1,
+    "beta": 4.5,
+    "emb_size": 512
+}
